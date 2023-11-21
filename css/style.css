@@ -1,0 +1,17 @@
+div {
+    margin: 10px;
+}
+
+input:invalid {
+    border-color: #ff0000;
+}
+
+
+input:valid {
+    border-color: #33ff00;
+}
+
+input:hover {
+    border-radius: 10px;
+    border-color: blue;
+}
